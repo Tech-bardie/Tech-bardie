@@ -1,8 +1,13 @@
  👋 Hi, I’m @Tech-bardie
+
  👀 I’m interested in cloud computing, software development and AI
+
  🌱 I’m currently learning AI/ML
+
  💞️ I’m looking to collaborate on various projects 
+
  😄 Pronouns: she
+
  ⚡ Fun fact: I get anxiety attack meeting people for the first time 
 
 <!---
